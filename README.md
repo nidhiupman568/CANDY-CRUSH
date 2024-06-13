@@ -30,4 +30,5 @@ Welcome to my Candy Crush clone! This project recreates the popular match-3 puzz
 
 #### Screenshots(Output)
 
-![Uploading CANDY CRUSH.png…]()
+![CANDY CRUSH](https://github.com/nidhiupman568/CANDY-CRUSH/assets/130860182/1224cb38-4a31-45c4-8b75-cf6c347af57c)
+
