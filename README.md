@@ -2,6 +2,8 @@
 
 🎉Welcome to my Candy Crush clone! 🎉 This project recreates the popular match-3 puzzle game using 🌐 HTML, 🎨 CSS, and 💻 JavaScript. 🍬
 
+Project Demo: https://nidhiupman568.github.io/CANDY-CRUSH/
+
 ## Features 🌟
 
 - **Swap Candies 🔄**: Drag and drop to swap adjacent candy pieces. 🍭
